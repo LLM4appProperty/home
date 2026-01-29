@@ -1,0 +1,2266 @@
+{
+  "MainActivity": [
+    {
+      "text": "More",
+      "resource_id": "",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        42,
+        101,
+        165,
+        172
+      ]
+    },
+    {
+      "text": "",
+      "resource_id": "",
+      "content_description": "More options",
+      "class": "android.widget.ImageView",
+      "bounds": [
+        975,
+        73,
+        1080,
+        199
+      ]
+    },
+    {
+      "text": "",
+      "resource_id": "net.gsantner.markor:id/icon_frame",
+      "content_description": "",
+      "class": "android.widget.LinearLayout",
+      "bounds": [
+        42,
+        210,
+        189,
+        215
+      ]
+    },
+    {
+      "text": "",
+      "resource_id": "",
+      "content_description": "",
+      "class": "android.widget.RelativeLayout",
+      "bounds": [
+        189,
+        210,
+        1038,
+        243
+      ]
+    },
+    {
+      "text": "",
+      "resource_id": "android:id/icon",
+      "content_description": "",
+      "class": "android.widget.ImageView",
+      "bounds": [
+        42,
+        284,
+        105,
+        347
+      ]
+    },
+    {
+      "text": "Settings",
+      "resource_id": "android:id/title",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        189,
+        287,
+        343,
+        344
+      ]
+    },
+    {
+      "text": "Help / FAQ",
+      "resource_id": "android:id/title",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        189,
+        430,
+        388,
+        487
+      ]
+    },
+    {
+      "text": "Contribute",
+      "resource_id": "",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        42,
+        573,
+        1059,
+        624
+      ]
+    },
+    {
+      "text": "Donate",
+      "resource_id": "android:id/title",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        189,
+        677,
+        323,
+        734
+      ]
+    },
+    {
+      "text": "More info on donating to the developer, or contributing to this project.",
+      "resource_id": "android:id/summary",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        189,
+        734,
+        1038,
+        828
+      ]
+    },
+    {
+      "text": "Report bugs",
+      "resource_id": "android:id/title",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        189,
+        914,
+        417,
+        971
+      ]
+    },
+    {
+      "text": "Give feedback, report bugs or suggest improvements",
+      "resource_id": "android:id/summary",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        189,
+        971,
+        1038,
+        1065
+      ]
+    },
+    {
+      "text": "Translate",
+      "resource_id": "android:id/title",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        189,
+        1151,
+        362,
+        1208
+      ]
+    },
+    {
+      "text": "Translate this app into other languages",
+      "resource_id": "android:id/summary",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        189,
+        1208,
+        827,
+        1259
+      ]
+    },
+    {
+      "text": "Project Team",
+      "resource_id": "",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        42,
+        1345,
+        1059,
+        1396
+      ]
+    },
+    {
+      "text": "Gregor Santner (gsantner)",
+      "resource_id": "android:id/title",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        189,
+        1449,
+        674,
+        1506
+      ]
+    },
+    {
+      "text": "Austrian software developer and Open Source enthusiast",
+      "resource_id": "android:id/summary",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        189,
+        1506,
+        1038,
+        1600
+      ]
+    },
+    {
+      "text": "Files",
+      "resource_id": "net.gsantner.markor:id/navigation_bar_item_small_label_view",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        100,
+        1734,
+        168,
+        1777
+      ]
+    },
+    {
+      "text": "",
+      "resource_id": "net.gsantner.markor:id/navigation_bar_item_icon_view",
+      "content_description": "",
+      "class": "android.widget.ImageView",
+      "bounds": [
+        103,
+        1668,
+        166,
+        1731
+      ]
+    },
+    {
+      "text": "To-Do",
+      "resource_id": "net.gsantner.markor:id/navigation_bar_item_small_label_view",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        363,
+        1734,
+        446,
+        1777
+      ]
+    },
+    {
+      "text": "QuickNote",
+      "resource_id": "net.gsantner.markor:id/navigation_bar_item_small_label_view",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        600,
+        1734,
+        749,
+        1777
+      ]
+    },
+    {
+      "text": "More",
+      "resource_id": "net.gsantner.markor:id/navigation_bar_item_large_label_view",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        902,
+        1728,
+        988,
+        1779
+      ]
+    },
+    {
+      "text": "Markor",
+      "resource_id": "",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        42,
+        101,
+        213,
+        172
+      ]
+    },
+    {
+      "text": "",
+      "resource_id": "net.gsantner.markor:id/action_go_to",
+      "content_description": "Go to",
+      "class": "android.widget.TextView",
+      "bounds": [
+        660,
+        73,
+        765,
+        199
+      ]
+    },
+    {
+      "text": "",
+      "resource_id": "net.gsantner.markor:id/action_sort",
+      "content_description": "Sort by",
+      "class": "android.widget.TextView",
+      "bounds": [
+        765,
+        73,
+        870,
+        199
+      ]
+    },
+    {
+      "text": "",
+      "resource_id": "net.gsantner.markor:id/action_search",
+      "content_description": "Search",
+      "class": "android.widget.TextView",
+      "bounds": [
+        870,
+        73,
+        975,
+        199
+      ]
+    },
+    {
+      "text": "",
+      "resource_id": "net.gsantner.markor:id/opoc_filesystem_item__image",
+      "content_description": "",
+      "class": "android.widget.ImageView",
+      "bounds": [
+        42,
+        233,
+        116,
+        307
+      ]
+    },
+    {
+      "text": "..",
+      "resource_id": "net.gsantner.markor:id/opoc_filesystem_item__title",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        158,
+        210,
+        186,
+        277
+      ]
+    },
+    {
+      "text": "/storage/emulated/0/Documents",
+      "resource_id": "net.gsantner.markor:id/opoc_filesystem_item__description",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        158,
+        277,
+        738,
+        330
+      ]
+    },
+    {
+      "text": ".app",
+      "resource_id": "net.gsantner.markor:id/opoc_filesystem_item__title",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        158,
+        354,
+        255,
+        421
+      ]
+    },
+    {
+      "text": "8/20/2025, 11:05 AM",
+      "resource_id": "net.gsantner.markor:id/opoc_filesystem_item__description",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        158,
+        421,
+        528,
+        474
+      ]
+    },
+    {
+      "text": "abc.md",
+      "resource_id": "net.gsantner.markor:id/opoc_filesystem_item__title",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        158,
+        498,
+        325,
+        565
+      ]
+    },
+    {
+      "text": "8/20/2025, 11:06 AM",
+      "resource_id": "net.gsantner.markor:id/opoc_filesystem_item__description",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        158,
+        565,
+        528,
+        618
+      ]
+    },
+    {
+      "text": "",
+      "resource_id": "net.gsantner.markor:id/fab_add_new_item",
+      "content_description": "Create a new file or folder",
+      "class": "android.widget.ImageButton",
+      "bounds": [
+        891,
+        1458,
+        1038,
+        1605
+      ]
+    },
+    {
+      "text": "Files",
+      "resource_id": "net.gsantner.markor:id/navigation_bar_item_large_label_view",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        96,
+        1728,
+        173,
+        1779
+      ]
+    },
+    {
+      "text": "More",
+      "resource_id": "net.gsantner.markor:id/navigation_bar_item_small_label_view",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        908,
+        1734,
+        982,
+        1777
+      ]
+    },
+    {
+      "text": "Name",
+      "resource_id": "",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        84,
+        606,
+        996,
+        649
+      ]
+    },
+    {
+      "text": "abc",
+      "resource_id": "net.gsantner.markor:id/new_file_dialog__name",
+      "content_description": "",
+      "class": "android.widget.EditText",
+      "bounds": [
+        84,
+        612,
+        663,
+        720
+      ]
+    },
+    {
+      "text": ".md",
+      "resource_id": "net.gsantner.markor:id/new_file_dialog__ext",
+      "content_description": "",
+      "class": "android.widget.EditText",
+      "bounds": [
+        663,
+        612,
+        912,
+        720
+      ]
+    },
+    {
+      "text": "Type",
+      "resource_id": "",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        84,
+        741,
+        152,
+        784
+      ]
+    },
+    {
+      "text": "Markdown",
+      "resource_id": "android:id/text1",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        84,
+        787,
+        870,
+        844
+      ]
+    },
+    {
+      "text": "Template",
+      "resource_id": "",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        84,
+        868,
+        216,
+        911
+      ]
+    },
+    {
+      "text": "Empty file",
+      "resource_id": "android:id/text1",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        84,
+        914,
+        870,
+        971
+      ]
+    },
+    {
+      "text": "- Folder is created without file extension",
+      "resource_id": "",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        84,
+        1058,
+        996,
+        1101
+      ]
+    },
+    {
+      "text": "- Files and folders are not overwritten",
+      "resource_id": "",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        84,
+        1101,
+        996,
+        1144
+      ]
+    },
+    {
+      "text": "FOLDER",
+      "resource_id": "android:id/button3",
+      "content_description": "",
+      "class": "android.widget.Button",
+      "bounds": [
+        74,
+        1155,
+        270,
+        1250
+      ]
+    },
+    {
+      "text": "CANCEL",
+      "resource_id": "android:id/button2",
+      "content_description": "",
+      "class": "android.widget.Button",
+      "bounds": [
+        636,
+        1155,
+        838,
+        1250
+      ]
+    },
+    {
+      "text": "OK",
+      "resource_id": "android:id/button1",
+      "content_description": "",
+      "class": "android.widget.Button",
+      "bounds": [
+        838,
+        1155,
+        996,
+        1250
+      ]
+    },
+    {
+      "text": "QuickNote",
+      "resource_id": "",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        42,
+        101,
+        292,
+        172
+      ]
+    },
+    {
+      "text": "",
+      "resource_id": "net.gsantner.markor:id/action_undo",
+      "content_description": "Undo",
+      "class": "android.widget.TextView",
+      "bounds": [
+        450,
+        73,
+        555,
+        199
+      ]
+    },
+    {
+      "text": "",
+      "resource_id": "net.gsantner.markor:id/action_redo",
+      "content_description": "Redo",
+      "class": "android.widget.TextView",
+      "bounds": [
+        555,
+        73,
+        660,
+        199
+      ]
+    },
+    {
+      "text": "",
+      "resource_id": "net.gsantner.markor:id/action_preview",
+      "content_description": "View mode",
+      "class": "android.widget.TextView",
+      "bounds": [
+        660,
+        73,
+        765,
+        199
+      ]
+    },
+    {
+      "text": "",
+      "resource_id": "net.gsantner.markor:id/action_save",
+      "content_description": "Save",
+      "class": "android.widget.TextView",
+      "bounds": [
+        765,
+        73,
+        870,
+        199
+      ]
+    },
+    {
+      "text": "",
+      "resource_id": "net.gsantner.markor:id/document__fragment__edit__highlighting_editor",
+      "content_description": "",
+      "class": "android.widget.EditText",
+      "bounds": [
+        0,
+        210,
+        1080,
+        1526
+      ]
+    },
+    {
+      "text": "",
+      "resource_id": "",
+      "content_description": "Check list",
+      "class": "android.widget.ImageView",
+      "bounds": [
+        0,
+        1537,
+        127,
+        1642
+      ]
+    },
+    {
+      "text": "",
+      "resource_id": "",
+      "content_description": "Unordered list",
+      "class": "android.widget.ImageView",
+      "bounds": [
+        127,
+        1537,
+        254,
+        1642
+      ]
+    },
+    {
+      "text": "",
+      "resource_id": "",
+      "content_description": "Bold",
+      "class": "android.widget.ImageView",
+      "bounds": [
+        254,
+        1537,
+        381,
+        1642
+      ]
+    },
+    {
+      "text": "",
+      "resource_id": "",
+      "content_description": "Italic",
+      "class": "android.widget.ImageView",
+      "bounds": [
+        381,
+        1537,
+        508,
+        1642
+      ]
+    },
+    {
+      "text": "",
+      "resource_id": "",
+      "content_description": "Delete lines",
+      "class": "android.widget.ImageView",
+      "bounds": [
+        508,
+        1537,
+        635,
+        1642
+      ]
+    },
+    {
+      "text": "",
+      "resource_id": "",
+      "content_description": "Open link",
+      "class": "android.widget.ImageView",
+      "bounds": [
+        635,
+        1537,
+        762,
+        1642
+      ]
+    },
+    {
+      "text": "",
+      "resource_id": "",
+      "content_description": "Attach",
+      "class": "android.widget.ImageView",
+      "bounds": [
+        762,
+        1537,
+        889,
+        1642
+      ]
+    },
+    {
+      "text": "",
+      "resource_id": "",
+      "content_description": "Special Key",
+      "class": "android.widget.ImageView",
+      "bounds": [
+        889,
+        1537,
+        1016,
+        1642
+      ]
+    },
+    {
+      "text": "",
+      "resource_id": "",
+      "content_description": "Date and time",
+      "class": "android.widget.ImageView",
+      "bounds": [
+        1016,
+        1537,
+        1080,
+        1642
+      ]
+    },
+    {
+      "text": "QuickNote",
+      "resource_id": "net.gsantner.markor:id/navigation_bar_item_large_label_view",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        589,
+        1728,
+        760,
+        1779
+      ]
+    },
+    {
+      "text": "my_note",
+      "resource_id": "net.gsantner.markor:id/new_file_dialog__name",
+      "content_description": "",
+      "class": "android.widget.EditText",
+      "bounds": [
+        84,
+        612,
+        663,
+        720
+      ]
+    },
+    {
+      "text": "",
+      "resource_id": "net.gsantner.markor:id/icon",
+      "content_description": "",
+      "class": "android.widget.ImageView",
+      "bounds": [
+        579,
+        104,
+        642,
+        115
+      ]
+    },
+    {
+      "text": "Settings",
+      "resource_id": "net.gsantner.markor:id/title",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        663,
+        107,
+        986,
+        115
+      ]
+    },
+    {
+      "text": "ab",
+      "resource_id": "net.gsantner.markor:id/new_file_dialog__name",
+      "content_description": "",
+      "class": "android.widget.EditText",
+      "bounds": [
+        84,
+        612,
+        663,
+        720
+      ]
+    },
+    {
+      "text": "",
+      "resource_id": "net.gsantner.markor:id/textSpacerNoTitle",
+      "content_description": "",
+      "class": "android.view.View",
+      "bounds": [
+        70,
+        778,
+        968,
+        825
+      ]
+    },
+    {
+      "text": "Need permission for storage to save documents",
+      "resource_id": "android:id/message",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        70,
+        825,
+        968,
+        931
+      ]
+    },
+    {
+      "text": "Name",
+      "resource_id": "net.gsantner.markor:id/title",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        670,
+        107,
+        954,
+        164
+      ]
+    },
+    {
+      "text": "",
+      "resource_id": "net.gsantner.markor:id/radio",
+      "content_description": "",
+      "class": "android.widget.RadioButton",
+      "bounds": [
+        954,
+        94,
+        996,
+        178
+      ]
+    },
+    {
+      "text": "Date",
+      "resource_id": "net.gsantner.markor:id/title",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        670,
+        233,
+        954,
+        290
+      ]
+    },
+    {
+      "text": "Size",
+      "resource_id": "net.gsantner.markor:id/title",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        670,
+        359,
+        954,
+        416
+      ]
+    },
+    {
+      "text": "Folder first",
+      "resource_id": "net.gsantner.markor:id/title",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        670,
+        485,
+        954,
+        542
+      ]
+    },
+    {
+      "text": "",
+      "resource_id": "net.gsantner.markor:id/checkbox",
+      "content_description": "",
+      "class": "android.widget.CheckBox",
+      "bounds": [
+        954,
+        472,
+        996,
+        556
+      ]
+    },
+    {
+      "text": "Reverse order",
+      "resource_id": "net.gsantner.markor:id/title",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        670,
+        611,
+        954,
+        668
+      ]
+    },
+    {
+      "text": ".dotfiles",
+      "resource_id": "net.gsantner.markor:id/title",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        670,
+        737,
+        954,
+        745
+      ]
+    },
+    {
+      "text": "Import from device",
+      "resource_id": "net.gsantner.markor:id/title",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        665,
+        105,
+        986,
+        162
+      ]
+    },
+    {
+      "text": "AppData (private)",
+      "resource_id": "net.gsantner.markor:id/title",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        518,
+        107,
+        996,
+        164
+      ]
+    },
+    {
+      "text": "AppData (public)",
+      "resource_id": "net.gsantner.markor:id/title",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        518,
+        233,
+        996,
+        290
+      ]
+    },
+    {
+      "text": "Internal storage",
+      "resource_id": "net.gsantner.markor:id/title",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        518,
+        359,
+        996,
+        416
+      ]
+    },
+    {
+      "text": "Recently viewed documents",
+      "resource_id": "net.gsantner.markor:id/title",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        518,
+        485,
+        996,
+        542
+      ]
+    },
+    {
+      "text": "Popular documents",
+      "resource_id": "net.gsantner.markor:id/title",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        518,
+        611,
+        996,
+        668
+      ]
+    },
+    {
+      "text": "Favourites",
+      "resource_id": "net.gsantner.markor:id/title",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        518,
+        737,
+        996,
+        794
+      ]
+    },
+    {
+      "text": "Notebook",
+      "resource_id": "net.gsantner.markor:id/title",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        518,
+        863,
+        996,
+        871
+      ]
+    },
+    {
+      "text": "¯\\_(ツ)_/¯",
+      "resource_id": "net.gsantner.markor:id/empty_hint",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        0,
+        760,
+        1080,
+        1097
+      ]
+    },
+    {
+      "text": "Markor",
+      "resource_id": "android:id/title",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        189,
+        252,
+        322,
+        309
+      ]
+    },
+    {
+      "text": "net.gsantner.markor\nVersion v2.10.2 (138)",
+      "resource_id": "android:id/summary",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        189,
+        309,
+        543,
+        403
+      ]
+    },
+    {
+      "text": "Rate this app",
+      "resource_id": "android:id/title",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        189,
+        489,
+        434,
+        546
+      ]
+    },
+    {
+      "text": "Plain Text",
+      "resource_id": "android:id/text1",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        84,
+        910,
+        786,
+        1036
+      ]
+    },
+    {
+      "text": "todo.txt",
+      "resource_id": "android:id/text1",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        84,
+        1036,
+        786,
+        1162
+      ]
+    },
+    {
+      "text": "Zim Wiki",
+      "resource_id": "android:id/text1",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        84,
+        1162,
+        786,
+        1288
+      ]
+    },
+    {
+      "text": "None",
+      "resource_id": "android:id/text1",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        84,
+        1288,
+        786,
+        1330
+      ]
+    },
+    {
+      "text": "markor-markdown-reference.md",
+      "resource_id": "android:id/text1",
+      "content_description": "",
+      "class": "android.widget.CheckedTextView",
+      "bounds": [
+        84,
+        1037,
+        786,
+        1163
+      ]
+    },
+    {
+      "text": "todo.example.txt",
+      "resource_id": "android:id/text1",
+      "content_description": "",
+      "class": "android.widget.CheckedTextView",
+      "bounds": [
+        84,
+        1163,
+        786,
+        1289
+      ]
+    },
+    {
+      "text": "2029-01-01-jekyll-post.md",
+      "resource_id": "android:id/text1",
+      "content_description": "",
+      "class": "android.widget.CheckedTextView",
+      "bounds": [
+        84,
+        1289,
+        786,
+        1415
+      ]
+    },
+    {
+      "text": "cooking-recipe.md",
+      "resource_id": "android:id/text1",
+      "content_description": "",
+      "class": "android.widget.CheckedTextView",
+      "bounds": [
+        84,
+        1415,
+        786,
+        1541
+      ]
+    },
+    {
+      "text": "presentation-beamer.md",
+      "resource_id": "android:id/text1",
+      "content_description": "",
+      "class": "android.widget.CheckedTextView",
+      "bounds": [
+        84,
+        1541,
+        786,
+        1667
+      ]
+    },
+    {
+      "text": "zim-wiki-reference.txt",
+      "resource_id": "android:id/text1",
+      "content_description": "",
+      "class": "android.widget.CheckedTextView",
+      "bounds": [
+        84,
+        1667,
+        786,
+        1710
+      ]
+    },
+    {
+      "text": "To-Do",
+      "resource_id": "",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        42,
+        101,
+        181,
+        172
+      ]
+    },
+    {
+      "text": "",
+      "resource_id": "",
+      "content_description": "Toggle done",
+      "class": "android.widget.ImageView",
+      "bounds": [
+        0,
+        1537,
+        127,
+        1642
+      ]
+    },
+    {
+      "text": "",
+      "resource_id": "",
+      "content_description": "Add context",
+      "class": "android.widget.ImageView",
+      "bounds": [
+        127,
+        1537,
+        254,
+        1642
+      ]
+    },
+    {
+      "text": "",
+      "resource_id": "",
+      "content_description": "Add project",
+      "class": "android.widget.ImageView",
+      "bounds": [
+        254,
+        1537,
+        381,
+        1642
+      ]
+    },
+    {
+      "text": "",
+      "resource_id": "",
+      "content_description": "Priority",
+      "class": "android.widget.ImageView",
+      "bounds": [
+        381,
+        1537,
+        508,
+        1642
+      ]
+    },
+    {
+      "text": "",
+      "resource_id": "",
+      "content_description": "Archive completed tasks",
+      "class": "android.widget.ImageView",
+      "bounds": [
+        1016,
+        1537,
+        1080,
+        1642
+      ]
+    },
+    {
+      "text": "To-Do",
+      "resource_id": "net.gsantner.markor:id/navigation_bar_item_large_label_view",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        357,
+        1728,
+        453,
+        1779
+      ]
+    }
+  ],
+  "IntroActivity": [
+    {
+      "text": "Main View",
+      "resource_id": "net.gsantner.markor:id/title",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        0,
+        63,
+        1080,
+        362
+      ]
+    },
+    {
+      "text": "",
+      "resource_id": "net.gsantner.markor:id/image",
+      "content_description": "graphics",
+      "class": "android.widget.ImageView",
+      "bounds": [
+        0,
+        362,
+        1080,
+        1110
+      ]
+    },
+    {
+      "text": "Notebook is the folder that Markor loads in the file browser when the app is started. It is the home folder of your files.",
+      "resource_id": "net.gsantner.markor:id/description",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        0,
+        1110,
+        1080,
+        1558
+      ]
+    },
+    {
+      "text": "",
+      "resource_id": "net.gsantner.markor:id/bottom_separator",
+      "content_description": "",
+      "class": "android.view.View",
+      "bounds": [
+        0,
+        1609,
+        1080,
+        1610
+      ]
+    },
+    {
+      "text": "",
+      "resource_id": "net.gsantner.markor:id/bottom",
+      "content_description": "",
+      "class": "android.view.View",
+      "bounds": [
+        0,
+        1610,
+        1080,
+        1794
+      ]
+    },
+    {
+      "text": "",
+      "resource_id": "",
+      "content_description": "",
+      "class": "android.widget.ImageView",
+      "bounds": [
+        420,
+        1682,
+        460,
+        1722
+      ]
+    },
+    {
+      "text": "",
+      "resource_id": "net.gsantner.markor:id/next",
+      "content_description": "NEXT",
+      "class": "android.widget.ImageButton",
+      "bounds": [
+        922,
+        1639,
+        1048,
+        1765
+      ]
+    },
+    {
+      "text": "Share -> Markor",
+      "resource_id": "net.gsantner.markor:id/title",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        0,
+        63,
+        1080,
+        362
+      ]
+    },
+    {
+      "text": "",
+      "resource_id": "net.gsantner.markor:id/description",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        0,
+        1110,
+        1080,
+        1558
+      ]
+    },
+    {
+      "text": "Editor",
+      "resource_id": "net.gsantner.markor:id/title",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        0,
+        63,
+        1080,
+        362
+      ]
+    },
+    {
+      "text": "Need permission for storage to save documents",
+      "resource_id": "net.gsantner.markor:id/description",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        0,
+        1110,
+        1080,
+        1558
+      ]
+    },
+    {
+      "text": "View",
+      "resource_id": "net.gsantner.markor:id/title",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        0,
+        63,
+        1080,
+        362
+      ]
+    },
+    {
+      "text": "QuickNote",
+      "resource_id": "net.gsantner.markor:id/title",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        0,
+        63,
+        1080,
+        362
+      ]
+    },
+    {
+      "text": "QuickNote is the fastest option to write down notes. It is a file in Markdown format with default location >Notebook/QuickNote.md<, you can set a custom filepath in the settings.",
+      "resource_id": "net.gsantner.markor:id/description",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        0,
+        1110,
+        1080,
+        1558
+      ]
+    },
+    {
+      "text": "DONE",
+      "resource_id": "net.gsantner.markor:id/done",
+      "content_description": "",
+      "class": "android.widget.Button",
+      "bounds": [
+        922,
+        1636,
+        1048,
+        1762
+      ]
+    },
+    {
+      "text": "To-Do",
+      "resource_id": "net.gsantner.markor:id/title",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        0,
+        63,
+        1080,
+        362
+      ]
+    },
+    {
+      "text": "Manage your tasks with ToDo. It is a file in todo.txt format with default location >Notebook/todo.txt<, you can set a custom filepath in the settings.",
+      "resource_id": "net.gsantner.markor:id/description",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        0,
+        1110,
+        1080,
+        1558
+      ]
+    }
+  ],
+  "DocumentActivity": [
+    {
+      "text": "File settings",
+      "resource_id": "android:id/title",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        537,
+        110,
+        996,
+        161
+      ]
+    },
+    {
+      "text": "",
+      "resource_id": "net.gsantner.markor:id/icon",
+      "content_description": "",
+      "class": "android.widget.ImageView",
+      "bounds": [
+        516,
+        230,
+        579,
+        293
+      ]
+    },
+    {
+      "text": "Wrap words",
+      "resource_id": "net.gsantner.markor:id/title",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        600,
+        233,
+        954,
+        290
+      ]
+    },
+    {
+      "text": "",
+      "resource_id": "net.gsantner.markor:id/checkbox",
+      "content_description": "",
+      "class": "android.widget.CheckBox",
+      "bounds": [
+        954,
+        220,
+        996,
+        304
+      ]
+    },
+    {
+      "text": "Syntax highlighting",
+      "resource_id": "net.gsantner.markor:id/title",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        600,
+        359,
+        954,
+        416
+      ]
+    },
+    {
+      "text": "Auto-format",
+      "resource_id": "net.gsantner.markor:id/title",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        600,
+        485,
+        954,
+        542
+      ]
+    },
+    {
+      "text": "Font Size",
+      "resource_id": "net.gsantner.markor:id/title",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        600,
+        611,
+        996,
+        668
+      ]
+    },
+    {
+      "text": "Format",
+      "resource_id": "net.gsantner.markor:id/title",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        600,
+        737,
+        954,
+        745
+      ]
+    },
+    {
+      "text": "",
+      "resource_id": "net.gsantner.markor:id/submenuarrow",
+      "content_description": "",
+      "class": "android.widget.ImageView",
+      "bounds": [
+        975,
+        734,
+        996,
+        745
+      ]
+    },
+    {
+      "text": "",
+      "resource_id": "",
+      "content_description": "",
+      "class": "android.widget.FrameLayout",
+      "bounds": [
+        565,
+        73,
+        1080,
+        325
+      ]
+    },
+    {
+      "text": "File settings",
+      "resource_id": "net.gsantner.markor:id/title",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        660,
+        107,
+        944,
+        164
+      ]
+    },
+    {
+      "text": "Share",
+      "resource_id": "net.gsantner.markor:id/title",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        660,
+        233,
+        944,
+        290
+      ]
+    },
+    {
+      "text": "Tools",
+      "resource_id": "net.gsantner.markor:id/title",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        660,
+        359,
+        944,
+        416
+      ]
+    },
+    {
+      "text": "Info",
+      "resource_id": "net.gsantner.markor:id/title",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        660,
+        485,
+        986,
+        542
+      ]
+    },
+    {
+      "text": "Reload",
+      "resource_id": "net.gsantner.markor:id/title",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        660,
+        611,
+        986,
+        619
+      ]
+    },
+    {
+      "text": "abc",
+      "resource_id": "net.gsantner.markor:id/note__activity__text_note_title",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        42,
+        101,
+        450,
+        172
+      ]
+    },
+    {
+      "text": "",
+      "resource_id": "net.gsantner.markor:id/action_undo",
+      "content_description": "Undo",
+      "class": "android.widget.TextView",
+      "bounds": [
+        450,
+        73,
+        555,
+        199
+      ]
+    },
+    {
+      "text": "",
+      "resource_id": "net.gsantner.markor:id/action_redo",
+      "content_description": "Redo",
+      "class": "android.widget.TextView",
+      "bounds": [
+        555,
+        73,
+        660,
+        199
+      ]
+    },
+    {
+      "text": "",
+      "resource_id": "net.gsantner.markor:id/action_preview",
+      "content_description": "View mode",
+      "class": "android.widget.TextView",
+      "bounds": [
+        660,
+        73,
+        765,
+        199
+      ]
+    },
+    {
+      "text": "",
+      "resource_id": "net.gsantner.markor:id/action_save",
+      "content_description": "Save",
+      "class": "android.widget.TextView",
+      "bounds": [
+        765,
+        73,
+        870,
+        199
+      ]
+    },
+    {
+      "text": "",
+      "resource_id": "net.gsantner.markor:id/action_search",
+      "content_description": "Search",
+      "class": "android.widget.TextView",
+      "bounds": [
+        870,
+        73,
+        975,
+        199
+      ]
+    },
+    {
+      "text": "",
+      "resource_id": "",
+      "content_description": "More options",
+      "class": "android.widget.ImageView",
+      "bounds": [
+        975,
+        73,
+        1080,
+        199
+      ]
+    },
+    {
+      "text": "Avc",
+      "resource_id": "net.gsantner.markor:id/document__fragment__edit__highlighting_editor",
+      "content_description": "",
+      "class": "android.widget.EditText",
+      "bounds": [
+        0,
+        210,
+        1080,
+        1673
+      ]
+    },
+    {
+      "text": "",
+      "resource_id": "",
+      "content_description": "Check list",
+      "class": "android.widget.ImageView",
+      "bounds": [
+        0,
+        1684,
+        127,
+        1789
+      ]
+    },
+    {
+      "text": "",
+      "resource_id": "",
+      "content_description": "Unordered list",
+      "class": "android.widget.ImageView",
+      "bounds": [
+        127,
+        1684,
+        254,
+        1789
+      ]
+    },
+    {
+      "text": "",
+      "resource_id": "",
+      "content_description": "Bold",
+      "class": "android.widget.ImageView",
+      "bounds": [
+        254,
+        1684,
+        381,
+        1789
+      ]
+    },
+    {
+      "text": "",
+      "resource_id": "",
+      "content_description": "Italic",
+      "class": "android.widget.ImageView",
+      "bounds": [
+        381,
+        1684,
+        508,
+        1789
+      ]
+    },
+    {
+      "text": "",
+      "resource_id": "",
+      "content_description": "Delete lines",
+      "class": "android.widget.ImageView",
+      "bounds": [
+        508,
+        1684,
+        635,
+        1789
+      ]
+    },
+    {
+      "text": "",
+      "resource_id": "",
+      "content_description": "Open link",
+      "class": "android.widget.ImageView",
+      "bounds": [
+        635,
+        1684,
+        762,
+        1789
+      ]
+    },
+    {
+      "text": "",
+      "resource_id": "",
+      "content_description": "Attach",
+      "class": "android.widget.ImageView",
+      "bounds": [
+        762,
+        1684,
+        889,
+        1789
+      ]
+    },
+    {
+      "text": "",
+      "resource_id": "",
+      "content_description": "Special Key",
+      "class": "android.widget.ImageView",
+      "bounds": [
+        889,
+        1684,
+        1016,
+        1789
+      ]
+    },
+    {
+      "text": "",
+      "resource_id": "",
+      "content_description": "Date and time",
+      "class": "android.widget.ImageView",
+      "bounds": [
+        1016,
+        1684,
+        1080,
+        1789
+      ]
+    },
+    {
+      "text": "",
+      "resource_id": "net.gsantner.markor:id/document__fragment__edit__highlighting_editor",
+      "content_description": "",
+      "class": "android.widget.EditText",
+      "bounds": [
+        0,
+        210,
+        1080,
+        1673
+      ]
+    },
+    {
+      "text": "Share",
+      "resource_id": "android:id/title",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        596,
+        110,
+        996,
+        161
+      ]
+    },
+    {
+      "text": "Plain Text",
+      "resource_id": "net.gsantner.markor:id/title",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        659,
+        233,
+        996,
+        290
+      ]
+    },
+    {
+      "text": "Print / PDF",
+      "resource_id": "net.gsantner.markor:id/title",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        659,
+        359,
+        996,
+        416
+      ]
+    },
+    {
+      "text": "File",
+      "resource_id": "net.gsantner.markor:id/title",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        659,
+        485,
+        996,
+        542
+      ]
+    },
+    {
+      "text": "HTML",
+      "resource_id": "net.gsantner.markor:id/title",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        659,
+        611,
+        996,
+        668
+      ]
+    },
+    {
+      "text": "HTML (as plain text)",
+      "resource_id": "net.gsantner.markor:id/title",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        659,
+        737,
+        996,
+        794
+      ]
+    },
+    {
+      "text": "Image",
+      "resource_id": "net.gsantner.markor:id/title",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        659,
+        863,
+        996,
+        920
+      ]
+    },
+    {
+      "text": "Screenshot",
+      "resource_id": "net.gsantner.markor:id/title",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        659,
+        989,
+        996,
+        1046
+      ]
+    },
+    {
+      "text": "Calendar",
+      "resource_id": "net.gsantner.markor:id/title",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        659,
+        1115,
+        996,
+        1123
+      ]
+    }
+  ],
+  "SettingsActivity": [
+    {
+      "text": "",
+      "resource_id": "",
+      "content_description": "Back",
+      "class": "android.widget.ImageButton",
+      "bounds": [
+        0,
+        63,
+        147,
+        210
+      ]
+    },
+    {
+      "text": "Settings",
+      "resource_id": "",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        189,
+        101,
+        385,
+        172
+      ]
+    },
+    {
+      "text": "",
+      "resource_id": "android:id/icon",
+      "content_description": "",
+      "class": "android.widget.ImageView",
+      "bounds": [
+        42,
+        274,
+        105,
+        337
+      ]
+    },
+    {
+      "text": "General",
+      "resource_id": "android:id/title",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        189,
+        252,
+        331,
+        309
+      ]
+    },
+    {
+      "text": "Files and folders",
+      "resource_id": "android:id/summary",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        189,
+        309,
+        461,
+        360
+      ]
+    },
+    {
+      "text": "Other",
+      "resource_id": "android:id/title",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        189,
+        446,
+        291,
+        503
+      ]
+    },
+    {
+      "text": "Miscellaneous",
+      "resource_id": "android:id/summary",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        189,
+        503,
+        426,
+        554
+      ]
+    },
+    {
+      "text": "Edit mode",
+      "resource_id": "android:id/title",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        189,
+        640,
+        378,
+        697
+      ]
+    },
+    {
+      "text": "Editor Settings",
+      "resource_id": "android:id/summary",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        189,
+        697,
+        430,
+        748
+      ]
+    },
+    {
+      "text": "View mode",
+      "resource_id": "android:id/title",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        189,
+        834,
+        397,
+        891
+      ]
+    },
+    {
+      "text": "Display converted markup",
+      "resource_id": "android:id/summary",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        189,
+        891,
+        617,
+        942
+      ]
+    },
+    {
+      "text": "Format",
+      "resource_id": "",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        42,
+        1028,
+        1059,
+        1079
+      ]
+    },
+    {
+      "text": "Markdown",
+      "resource_id": "android:id/title",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        189,
+        1132,
+        387,
+        1189
+      ]
+    },
+    {
+      "text": "todo.txt",
+      "resource_id": "android:id/title",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        189,
+        1275,
+        335,
+        1332
+      ]
+    },
+    {
+      "text": "Zim Wiki",
+      "resource_id": "android:id/title",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        189,
+        1418,
+        349,
+        1475
+      ]
+    },
+    {
+      "text": "Plain Text",
+      "resource_id": "android:id/title",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        189,
+        1561,
+        372,
+        1618
+      ]
+    },
+    {
+      "text": "Essential",
+      "resource_id": "",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        42,
+        1704,
+        1059,
+        1755
+      ]
+    },
+    {
+      "text": "",
+      "resource_id": "",
+      "content_description": "",
+      "class": "android.widget.RelativeLayout",
+      "bounds": [
+        189,
+        1766,
+        1038,
+        1794
+      ]
+    },
+    {
+      "text": "Theme",
+      "resource_id": "android:id/title",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        189,
+        1319,
+        318,
+        1376
+      ]
+    },
+    {
+      "text": "Auto",
+      "resource_id": "android:id/summary",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        189,
+        1376,
+        266,
+        1427
+      ]
+    },
+    {
+      "text": "Language",
+      "resource_id": "android:id/title",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        189,
+        1513,
+        374,
+        1570
+      ]
+    },
+    {
+      "text": "Change language of this app. Restart app for changes to take effect\n\nEnglish (English, United States)",
+      "resource_id": "android:id/summary",
+      "content_description": "",
+      "class": "android.widget.TextView",
+      "bounds": [
+        189,
+        1570,
+        1038,
+        1750
+      ]
+    }
+  ]
+}
