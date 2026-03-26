@@ -17,11 +17,13 @@ This repository contains all the artifacts (including the source code of iPBT, t
         |--- generate_executable_property.py     The source code of executable property generation phase.
     |--- Properties:                             The properties used in the evaluation
 
+    |--- APKs: The apk file for each app used in the evaluation
+
 ## iPBT
 
 iPBT is a novel property translation tool designed to translate user-provided property descriptions in natural language to executable properties.
 
-### :file_folder:Download
+### 📁Download
 
 ```
 git clone https://github.com/LLM4appProperty/home
@@ -89,12 +91,13 @@ You can modify the parameters in `generate_widget_annotation.py` for different a
 
 #### Executable property generation
 
-You can write the property descriptions in the form of <P,I,Q>. 
-* P is the precondition, which defines when or where we could check the property. 
+You can write the property descriptions in the form of <P,I,Q>.
+
+* P is the precondition, which defines when or where we could check the property.
 * I is the interaction scenario, which
-defines how to perform the functionality. 
+  defines how to perform the functionality.
 * 𝑄 is the postcondition, which defines the expected
-results are after the functionality. 
+  results are after the functionality.
 
 For more details about how to write a property, see [Kea](https://github.com/ecnusse/Kea).
 
